@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "windows-gcc-x64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/MinGW/lib/**",
+                "C:/MinGW/include/**",
+                "C:\\MinGW\\include\\**",
+                "C:/MinGW/bin/**",
+                "C:\\MinGW\\bin\\**"
+            ],
+            "compilerPath": "C:/MinGW/bin/gcc",
+            "intelliSenseMode": "windows-gcc-x64",
+            "mergeConfigurations": true       
+        }
+    ],
+    "version": 4
+}
